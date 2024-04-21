@@ -21,7 +21,7 @@ Additional unit tests for function is script sample_file.py
 python unit_tests.py
 ```
 
-## 3 Prepered Files 
+## 3 Prepared Files 
 - validation_schema.json
 - sample_file.json
 - json_validator.py
