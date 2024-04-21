@@ -36,3 +36,7 @@ python unit_tests.py
 - The `unit_tests.py` file contains additional application of unit tests for the function from the `json_validator.py` file. **Test** verifying its compliance with the schema, skipping the resource field. **Test** with case assuming a invalid file and **test** with use of an empty file. 
 In addition, the unittest library wes used.
 
+## 5 Acknowledgements
+
+- [AWS::IAM::Role Policy](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-iam-role-policy.html): Contains information about an attached policy.
+
